@@ -1,0 +1,3 @@
+interface:
+  display_name: "PDF转Word校对"
+  short_description: "完整转换PDF为可编辑Word，保留版式，疑字标红，原页码链接回源PDF"
